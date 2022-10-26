@@ -1,3 +1,11 @@
+## site-alura-hzc
+> site: [Alura HZC](https://nathrds.github.io/site-alura-hzc/)
+
+Projeto realizado pelo curso html e css da [Alura](www.alura.com.br)
+
+<br/>
+<br/>
+
 # Guia de estilos
 
 Toda a estilização que será usada no projeto dentro do figma.
