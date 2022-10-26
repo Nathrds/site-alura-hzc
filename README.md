@@ -1,7 +1,17 @@
-## site-alura-hzc
-> site: [Alura HZC](https://nathrds.github.io/site-alura-hzc/)
+
+## site: [Alura HZC](https://nathrds.github.io/site-alura-hzc/)
 
 Projeto realizado pelo curso html e css da [Alura](https://www.alura.com.br/)
+
+<br/>
+
+## Tecnologias
+* HTML
+* CSS
+* JS
+
+## Screenshots
+![site-hcz_screenshot](https://user-images.githubusercontent.com/106173624/198149705-f0395584-06f6-4900-a092-8fd4387da85f.PNG)
 
 <br/>
 <br/>
