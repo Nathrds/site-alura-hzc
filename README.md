@@ -15,7 +15,7 @@ Projeto realizado pelo curso html e css da [Alura](https://www.alura.com.br/)
 
 <br/>
 
-##QR Code - Alura HZC
+## QR Code - Alura HZC
 ![alura-hzc](https://user-images.githubusercontent.com/106173624/201482109-8a2cab8a-c759-4b13-98de-11eabaa17e1a.png)
 
 
